@@ -1,7 +1,7 @@
 ---
-layout: page
 title: About
-permalink: /about/
+permalink: "/about/"
+layout: page
 ---
 
 This is a Jekyll theme that uses the [Clarity Design System](http://clarity.design). This theme does not yet use the angular components of Clarity
